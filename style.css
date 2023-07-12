@@ -5,6 +5,9 @@
     font-family: 'poppins',sans-serif;
     box-sizing: border-box;
 }
+body{
+    overflow: hidden;
+}
 
 .container{
     width: 100vw;
